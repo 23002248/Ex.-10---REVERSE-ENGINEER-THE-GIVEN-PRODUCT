@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 11.12.2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -38,7 +38,7 @@
 
 
 ### Name: stephen raj.y
-### Register Number:23002248
+### Register Number:212223230217
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
